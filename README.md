@@ -1,2 +1,2 @@
-# training
+# Training
 GIT training session
